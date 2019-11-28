@@ -1,6 +1,6 @@
 {
   "name": "wj-ddns",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "bin": {
     "wj-ddns": "./bin/wj-ddns.js"
