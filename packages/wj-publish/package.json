@@ -1,6 +1,6 @@
 {
   "name": "@wangjuncode/wj-publish",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -34,5 +34,8 @@
     "mocha": "^6.2.0",
     "nyc": "^14.1.1"
   },
-  "gitHead": "a85a467e352c6723201e7eb4a44b97da7939ad09"
+  "gitHead": "c2e44e2d41b4bd3da04879e3dd4b3f2100c54b8d",
+  "publishConfig": {
+    "access": "public"
+  }
 }

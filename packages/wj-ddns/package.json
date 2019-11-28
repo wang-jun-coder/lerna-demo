@@ -1,6 +1,6 @@
 {
   "name": "@wangjuncode/wj-ddns",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "",
   "bin": {
     "wj-ddns": "./bin/wj-ddns.js"
@@ -27,5 +27,8 @@
     "commander": "^2.19.0",
     "public-ip": "^3.0.0"
   },
-  "gitHead": "a85a467e352c6723201e7eb4a44b97da7939ad09"
+  "gitHead": "c2e44e2d41b4bd3da04879e3dd4b3f2100c54b8d",
+  "publishConfig": {
+    "access": "public"
+  }
 }
