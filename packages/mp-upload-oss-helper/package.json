@@ -1,6 +1,6 @@
 {
   "name": "mp-upload-oss-helper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "小程序上传至oss, 后端计算参数的工具",
   "main": "index.js",
   "scripts": {
