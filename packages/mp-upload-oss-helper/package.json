@@ -1,6 +1,6 @@
 {
   "name": "mp-upload-oss-helper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "小程序上传至oss, 后端计算参数的工具",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/wang-jun-coder/mp-upload-oss-helper/issues"
   },
-  "homepage": "https://github.com/wang-jun-coder/mp-upload-oss-helper#readme"
+  "homepage": "https://github.com/wang-jun-coder/mp-upload-oss-helper#readme",
+  "gitHead": "eee96cf7fb82f984ab7729ae1eb27af237e48a87"
 }
